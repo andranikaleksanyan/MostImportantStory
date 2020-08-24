@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="fragment"
+            type="com.mostimportantstory.ui.info.InfoFragment" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        tools:context=".ui.info.InfoFragment">
+
+        <com.mostimportantstory.ui.views.SizeAwareImageView
+            android:id="@+id/tv_info"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:src="@drawable/bc_info" />
+
+        <ImageView
+            android:onClick="@{(v)->fragment.onHomeClicked()}"
+            android:id="@+id/iv_home"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="@dimen/margin_16"
+            android:src="@drawable/selector_home"
+            app:layout_constraintLeft_toLeftOf="@+id/tv_info"
+            app:layout_constraintTop_toTopOf="@+id/tv_info" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

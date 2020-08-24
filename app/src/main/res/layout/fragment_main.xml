@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="fragment"
+            type="com.mostimportantstory.ui.main.MainFragment" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:background="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.mostimportantstory.ui.views.SizeAwareImageView
+            android:id="@+id/iv_bc"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:adjustViewBounds="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bc_welcome" />
+
+        <ImageView
+            android:onClick="@{(v)->fragment.onClick(v)}"
+            android:id="@+id/iv_read_myself"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_16"
+            android:src="@drawable/ic_read_myself"
+            android:text="@string/read_myself"
+            app:layout_constraintBottom_toTopOf="@id/iv_read_forme"
+            app:layout_constraintLeft_toLeftOf="@id/iv_read_forme" />
+
+        <ImageView
+            android:id="@+id/iv_read_forme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_16"
+            android:src="@drawable/ic_read_forme"
+            android:text="@string/read_for_me"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="@id/iv_bc"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:onClick="@{(v)->fragment.onClick(v)}"
+            android:id="@+id/iv_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_16"
+            android:src="@drawable/ic_info"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="@id/iv_bc" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

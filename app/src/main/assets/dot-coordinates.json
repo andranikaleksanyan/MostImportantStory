@@ -1,0 +1,2168 @@
+{
+  "scenes": [
+    [
+      {
+        "text": "Please, Dad!",
+        "dots_coordinates": {
+          "x": 22,
+          "y": 50
+        },
+        "bubble_coordinates": {
+          "x": 33,
+          "y": 49,
+          "type": 2
+        }
+      },
+      {
+        "text": "Whoa, Matt, Jessica! What's up?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 35
+        },
+        "bubble_coordinates": {
+          "x": 16,
+          "y": 32,
+          "type": 4
+        }
+      },
+      {
+        "text": "Dad! You promised to tell us the most important story, remember?",
+        "dots_coordinates": {
+          "x": 66,
+          "y": 45
+        },
+        "bubble_coordinates": {
+          "x": 32,
+          "y": 23,
+          "type": 3
+        }
+      }
+    ],
+    [
+      {
+        "text": "Right! The most important story from the most important book; the Bible, God's book.",
+        "dots_coordinates": {
+          "x": 45,
+          "y": 47
+        },
+        "bubble_coordinates": {
+          "x": 50,
+          "y": 42,
+          "type": 2
+        }
+      },
+      {
+        "text": "A Bible story?",
+        "dots_coordinates": {
+          "x": 73,
+          "y": 47
+        },
+        "bubble_coordinates": {
+          "x": 43,
+          "y": 50,
+          "type": 4
+        }
+      }
+    ],
+    [
+      {
+        "text": "Not just a Bible story, it's the story of the whole Bible — God's plan for mankind.",
+        "dots_coordinates": {
+          "x": 47,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 60,
+          "y": 10,
+          "type": 1
+        }
+      },
+      {
+        "text": "So, how do we know that the Bible is God's book?",
+        "dots_coordinates": {
+          "x": 83,
+          "y": 75
+        },
+        "bubble_coordinates": {
+          "x": 40,
+          "y": 53,
+          "type": 3
+        }
+      },
+      {
+        "text": "God doesn't write books, does he.",
+        "dots_coordinates": {
+          "x": 83,
+          "y": 75
+        },
+        "bubble_coordinates": {
+          "x": 40,
+          "y": 53,
+          "type": 3
+        }
+      }
+    ],
+    [
+      {
+        "text": "God used 40 different people. They wrote the Bible over a period of 1500 years.",
+        "dots_coordinates": {
+          "x": 47,
+          "y": 53
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 20,
+          "type": 3
+        }
+      },
+      {
+        "text": "It has 66 books in it that all agree and fit together perfectly.",
+        "dots_coordinates": {
+          "x": 47,
+          "y": 53
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 20,
+          "type": 3
+        }
+      },
+      {
+        "text": "Only God could make a book like that.",
+        "dots_coordinates": {
+          "x": 47,
+          "y": 53
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 20,
+          "type": 3
+        }
+      },
+      {
+        "text": "What's God really like?",
+        "dots_coordinates": {
+          "x": 69,
+          "y": 47
+        },
+        "bubble_coordinates": {
+          "x": 34,
+          "y": 50,
+          "type": 4
+        }
+      },
+      {
+        "text": "God cares about us and answers when we ask for help. He's holy and pure.",
+        "dots_coordinates": {
+          "x": 85,
+          "y": 25
+        },
+        "bubble_coordinates": {
+          "x": 45,
+          "y": 25,
+          "type": 4
+        }
+      },
+      {
+        "text": "You can't see him, but he sees and knows everything. And he can do anything.",
+        "dots_coordinates": {
+          "x": 85,
+          "y": 25
+        },
+        "bubble_coordinates": {
+          "x": 45,
+          "y": 25,
+          "type": 4
+        }
+      },
+      {
+        "text": "Let Dad tell you the story and you'll see.",
+        "dots_coordinates": {
+          "x": 85,
+          "y": 25
+        },
+        "bubble_coordinates": {
+          "x": 45,
+          "y": 25,
+          "type": 4
+        }
+      }
+    ],
+    [
+      {
+        "text": "Long ago, God made the world and everything in it! Then God made a garden called Eden.",
+        "dots_coordinates": {
+          "x": 48,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 55,
+          "y": 40,
+          "type": 1
+        }
+      },
+      {
+        "text": "He got it ready for a very special creation.",
+        "dots_coordinates": {
+          "x": 48,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 55,
+          "y": 40,
+          "type": 1
+        }
+      },
+      {
+        "text": "That's us!",
+        "dots_coordinates": {
+          "x": 82,
+          "y": 82
+        },
+        "bubble_coordinates": {
+          "x": 45,
+          "y": 85,
+          "type": 4
+        }
+      }
+    ],
+    [
+      {
+        "text": "God said, ‘Let us make people in our image, to be like ourselves.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "And the Lord God formed a man's body from the dust of the ground and breathed into it the breath of life.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "And the man became a living person.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Dust?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Right! God can do anything. Then God said, ‘It is not good for the man to be alone. I will make a partner  who will help him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "So the Lord God caused Adam to fall into a deep sleep. He took one of Adam's ribs and made a woman from the rib.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "God brought the woman, Eve, to Adam as his wife.At the center of the garden God place the tree of life and the tree of the knowledge of good and evil.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "But the Lord God gave the man this warning: ‘You may freely eat any fruit in the garden, except fruit from the tree of the knowledge of good and evil.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "If you eat its fruit, you will surely die.’ Adam and Eve lived in the garden and they were very happy. They were close to God and enjoyed being with him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "But one day, Satan, God's enemy, disguised himself as a serpent.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "He didn't want Adam and Eve to be with God and obey him. He asked Eve,",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Did God really say you must not eat any of the fruit in the garden?",
+        "dots_coordinates": {
+          "x": 58,
+          "y": 30
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 15,
+          "type": 3
+        }
+      },
+      {
+        "text": "It's only the fruit from the tree at the center of the garden that we are not allowed to eat.",
+        "dots_coordinates": {
+          "x": 78,
+          "y": 65
+        },
+        "bubble_coordinates": {
+          "x": 36,
+          "y": 42,
+          "type": 3
+        }
+      },
+      {
+        "text": "God says we must not eat it or even touch it, or we will die.",
+        "dots_coordinates": {
+          "x": 78,
+          "y": 65
+        },
+        "bubble_coordinates": {
+          "x": 36,
+          "y": 42,
+          "type": 3
+        }
+      },
+      {
+        "text": "You won't die! You will become just like God.",
+        "dots_coordinates": {
+          "x": 58,
+          "y": 30
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 15,
+          "type": 3
+        }
+      },
+      {
+        "text": "The woman was convinced. The fruit looked so fresh and delicious, and it would make her wise.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "NO! Don't eat it, Eve!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Good advice, Matty, But she did.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "And so did Adam, Suddenly they were afraid. They hid from God when he came to walk in the garden.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "They had sinned by choosing to disobey God. So he sent them away — out of the Garden of Eden.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Sent them away? Didn't God love them any more?",
+        "dots_coordinates": {
+          "x": 30,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 45,
+          "y": 50,
+          "type": 1
+        }
+      },
+      {
+        "text": "I wouldn't have listened toSatan!",
+        "dots_coordinates": {
+          "x": 63,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 22,
+          "y": 55,
+          "type": 3
+        }
+      },
+      {
+        "text": "Did they see God again?",
+        "dots_coordinates": {
+          "x": 30,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 45,
+          "y": 50,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "God still loved them. But he hates sin. Sin separates us from God.",
+        "dots_coordinates": {
+          "x": 38,
+          "y": 40
+        },
+        "bubble_coordinates": {
+          "x": 60,
+          "y": 25,
+          "type": 1
+        }
+      },
+      {
+        "text": "Dad, why did God put the tree there then?",
+        "dots_coordinates": {
+          "x": 69,
+          "y": 60
+        },
+        "bubble_coordinates": {
+          "x": 28,
+          "y": 40,
+          "type": 3
+        }
+      }
+    ],
+    [
+      {
+        "text": "God loved Adam and Eve. He wanted them to have a choice to choose for themselves to love and obey him.",
+        "dots_coordinates": {
+          "x": 66,
+          "y": 35
+        },
+        "bubble_coordinates": {
+          "x": 28,
+          "y": 5,
+          "type": 3
+        }
+      },
+      {
+        "text": "But they chose to disobey God. They didn’t know how awful separation from God would be.",
+        "dots_coordinates": {
+          "x": 66,
+          "y": 35
+        },
+        "bubble_coordinates": {
+          "x": 28,
+          "y": 5,
+          "type": 3
+        }
+      },
+      {
+        "text": "And because they chose to sin, everyone who came after them was born sinful and separated from God, too.",
+        "dots_coordinates": {
+          "x": 66,
+          "y": 35
+        },
+        "bubble_coordinates": {
+          "x": 28,
+          "y": 5,
+          "type": 3
+        }
+      },
+      {
+        "text": "You mean we can’t be with God because of them? That’s not fair!",
+        "dots_coordinates": {
+          "x": 36,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 50,
+          "y": 60,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "Not only because of them. We all sin by doing wrong. But God had a wonderful plan to make us right with him.",
+        "dots_coordinates": {
+          "x": 47,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 62,
+          "y": 42,
+          "type": 1
+        }
+      },
+      {
+        "text": "He just needed one perfect person to die for our sins.",
+        "dots_coordinates": {
+          "x": 47,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 62,
+          "y": 42,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "When everything was ready, God put his plan into action. And it began with a baby.",
+        "dots_coordinates": {
+          "x": 44,
+          "y": 75
+        },
+        "bubble_coordinates": {
+          "x": 49,
+          "y": 52,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "God gave Mary his own Son as a baby. He chose Joseph to help Mary look after him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Because the baby was God's Son, he was born without sin.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "An angel of the Lord appeared to Joseph in a dream.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Mary will have a Son, and you are to name him Jesus, for he will save his people from their sins.",
+        "dots_coordinates": {
+          "x": 25,
+          "y": 25
+        },
+        "bubble_coordinates": {
+          "x": 40,
+          "y": 25,
+          "type": 2
+        }
+      },
+      {
+        "text": "“Jesus” means savior.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Just before the baby was born, Joseph and Mary had to go to Bethlehem.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "While they were there, Mary gave birth to her first child, a son.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "God sent angels to tell people about his son's birth.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "They came to see this amazing event: God's Son born as a baby! And Jesus grew up like you children.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Did he go to school? And like to play?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Sure. He also obeyed his parents and was obedient to his real Father, God. And he never sinned.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "When he was 12 years old, Jesus was in Jerusalem with the teachers. He was in the temple discussing deep questions with them.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "And all who heard him were amazed at his understanding and his answers.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Jesus grew both in height and in wisdom and he was loved by God and by all who knew him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "This is amazing.",
+        "dots_coordinates": {
+          "x": 61,
+          "y": 30
+        },
+        "bubble_coordinates": {
+          "x": 65,
+          "y": 5,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "When he was 30, Jesus started to preach and teach. He taught that God cares how people think and act.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "You must love the Lord your God with all your heart, all your soul, and all your mind. This is the first and greatest commandment.",
+        "dots_coordinates": {
+          "x": 72,
+          "y": 30
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 5,
+          "type": 3
+        }
+      },
+      {
+        "text": "A second is equally important: Love your neighbor as yourself.",
+        "dots_coordinates": {
+          "x": 72,
+          "y": 30
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 5,
+          "type": 3
+        }
+      },
+      {
+        "text": "Jesus told about God's wonderful plan to bring us back to him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "God so loved the world that he gave his only Son, so that everyone who believes in him will not perish but have eternal life.",
+        "dots_coordinates": {
+          "x": 72,
+          "y": 30
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 5,
+          "type": 3
+        }
+      },
+      {
+        "text": "I believe in Jesus!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "I’m glad!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Jesus also helped people see what God is like. He showed them God loves them.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "One way he did this was by healing every kind of sickness and disease. The sick were soon coming to be healed.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "And whatever their illness and pain, or if they were possessed by demons, or were epileptics, or were paralyzed — Jesus healed them all.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "One time a ruler got down on his knees in front of Jesus.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "My daughter has just died, but you can bring her back to life again if you just come and lay your hand upon her.",
+        "dots_coordinates": {
+          "x": 72,
+          "y": 55
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 30,
+          "type": 3
+        }
+      }
+    ],
+    [
+      {
+        "text": "So, Jesus went and took the girl by the hand and she stood up!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Wow! Jesus really healed people?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Yep. And he still heals today. Nothing is too hard for him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Jesus did other wonderful and amazing things. One time a crowd of more than 5,000 followed Jesus to a distant place.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "His friends and followers, the disciples, wanted to send the crowd away because it was past supper time.” But Jesus told them",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "That isn't necessary — you feed them.",
+        "dots_coordinates": {
+          "x": 22,
+          "y": 40
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 15,
+          "type": 1
+        }
+      },
+      {
+        "text": "There's a youngster here with 5 barley loaves and 2 fish! But what good is that with this huge crowd?",
+        "dots_coordinates": {
+          "x": 30,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 12,
+          "y": 50,
+          "type": 1
+        }
+      },
+      {
+        "text": "Jesus took the loaves, gave thanks to God and passed them out to the people.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Afterward, he did the same with the fish. And they all ate until they were full.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Now gather the leftovers so that nothing is wasted.",
+        "dots_coordinates": {
+          "x": 22,
+          "y": 40
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 15,
+          "type": 1
+        }
+      },
+      {
+        "text": "There were only 5 barley loaves to start with, but 12 baskets were filled with the pieces of bread the people did not eat!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "There were more leftovers than the food they started with?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Right. Jesus was teaching them God can meet all their needs. He'll do the same for us when we ask him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Jesus showed people that God loves children. He healed them, let them help him, like the boy with the food.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "And he even raised them from the dead! Once some children were brought to Jesus so he could lay his hands on them and pray for them.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "The disciples told them not to bother him. But Jesus saw what was happening.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Let the children come to me. Don't stop them. Anyone who doesn't have their kind of faith will never get into the kingdom of God.",
+        "dots_coordinates": {
+          "x": 73,
+          "y": 25
+        },
+        "bubble_coordinates": {
+          "x": 33,
+          "y": 17,
+          "type": 4
+        }
+      },
+      {
+        "text": "Then he took the children in his arms and placed his hands on their heads and blessed them.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "I want to be blessed by Jesus, too.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "You can be! Jesus is the same today and he loves children just as much.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Not everyone liked him, though. What he did and taught made the religious leaders angry.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "They were jealous that the people liked him so much. So they planned to get rid of him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "One night, when Jesus was talking to his friends, the religious leaders sent a crowd with clubs and swords.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Lord, should we fight?",
+        "dots_coordinates": {
+          "x": 10,
+          "y": 75
+        },
+        "bubble_coordinates": {
+          "x": 12,
+          "y": 58,
+          "type": 1
+        }
+      },
+      {
+        "text": "We brought swords!",
+        "dots_coordinates": {
+          "x": 35,
+          "y": 90
+        },
+        "bubble_coordinates": {
+          "x": 35,
+          "y": 70,
+          "type": 1
+        }
+      },
+      {
+        "text": "One of his disciples slashed a servant and cut off his right ear.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Don't resist any more!",
+        "dots_coordinates": {
+          "x": 26,
+          "y": 48
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 25,
+          "type": 1
+        }
+      },
+      {
+        "text": "And Jesus touched the place where the man's ear had been and healed him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Jesus healed one of his enemies?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Yes. He loves everyone. They grabbed Jesus and arrested him.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "They took him to the ruler of the area, Pilate, and put him on trial.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "The soldiers beat Jesus, put thorns on his head and made fun of him. Then Pilate spoke to the people.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "I am going to bring him out to you now, but understand clearly that I find him not guilty.",
+        "dots_coordinates": {
+          "x": 65,
+          "y": 20
+        },
+        "bubble_coordinates": {
+          "x": 20,
+          "y": 25,
+          "type": 4
+        }
+      },
+      {
+        "text": "Then Pilate gave Jesus to them to be crucified.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "But he didn't do anything wrong! That's not fair!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Right, but remember, God had a plan.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "They nailed Jesus to the cross.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Father, forgive these people, because they don't know what they are doing.",
+        "dots_coordinates": {
+          "x": 71,
+          "y": 22
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 25,
+          "type": 4
+        }
+      },
+      {
+        "text": "Two others, both criminals, were executed with him. One of the criminals hanging beside him yelled at Jesus.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "So you're the Messiah, are you? Prove it by saving yourself — and us too!",
+        "dots_coordinates": {
+          "x": 56,
+          "y": 36
+        },
+        "bubble_coordinates": {
+          "x": 17,
+          "y": 22,
+          "type": 3
+        }
+      },
+      {
+        "text": "But the other criminal protested.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Don't you fear God even when you are dying? We deserve to die for our evil deeds, but this man hasn't done anything wrong.",
+        "dots_coordinates": {
+          "x": 90,
+          "y": 36
+        },
+        "bubble_coordinates": {
+          "x": 52,
+          "y": 22,
+          "type": 3
+        }
+      },
+      {
+        "text": "Jesus, remember me when you come into your kingdom.",
+        "dots_coordinates": {
+          "x": 90,
+          "y": 36
+        },
+        "bubble_coordinates": {
+          "x": 52,
+          "y": 22,
+          "type": 3
+        }
+      },
+      {
+        "text": "I assure you, today you will be with me in paradise.",
+        "dots_coordinates": {
+          "x": 71,
+          "y": 22
+        },
+        "bubble_coordinates": {
+          "x": 30,
+          "y": 25,
+          "type": 4
+        }
+      },
+      {
+        "text": "He got to be with Jesus after he died?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Right, later, Jesus cried out to his Father, God, and died.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Hey, is Jesus the person in God's plan?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "You got it. God sent his own perfect Son, Jesus. And he died to take the punishment for our sins.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Jesus' body was put in a tomb by his friends. Early on the first day of the week, two women went to the tomb.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Suddenly there was a great earthquake, because an angel of the Lord came down from heaven and rolled aside the stone from the tomb.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Don't be afraid. I know you are looking for Jesus, who was crucified.",
+        "dots_coordinates": {
+          "x": 83,
+          "y": 25
+        },
+        "bubble_coordinates": {
+          "x": 37,
+          "y": 7,
+          "type": 3
+        }
+      },
+      {
+        "text": "He isn't here! He has been raised from the dead, just as he said would happen. Now go quickly and tell his disciples.",
+        "dots_coordinates": {
+          "x": 83,
+          "y": 25
+        },
+        "bubble_coordinates": {
+          "x": 37,
+          "y": 7,
+          "type": 3
+        }
+      },
+      {
+        "text": "That's the best part!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "After he'd paid for our sins, God raised him from the dead. That was God's plan all along.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "Later, as the disciples were talking about it, Jesus himself was suddenly standing there among them.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Can it be?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 15,
+          "y": 15,
+          "type": 1
+        }
+      },
+      {
+        "text": "Peace be with you.",
+        "dots_coordinates": {
+          "x": 80,
+          "y": 75
+        },
+        "bubble_coordinates": {
+          "x": 50,
+          "y": 45,
+          "type": 3
+        }
+      },
+      {
+        "text": "The whole group was terribly frightened, thinking they were seeing a ghost!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Why are you frightened? Look at my hands. Look at my feet.",
+        "dots_coordinates": {
+          "x": 90,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 35,
+          "y": 45,
+          "type": 3
+        }
+      },
+      {
+        "text": "You can see that it's really me. Touch me and make sure that I am not a ghost.",
+        "dots_coordinates": {
+          "x": 90,
+          "y": 80
+        },
+        "bubble_coordinates": {
+          "x": 35,
+          "y": 45,
+          "type": 3
+        }
+      }
+    ],
+    [
+      {
+        "text": "Jesus was with his disciples for many weeks.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "They must have been very happy.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Sure, but where is Jesus now?",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Good question. Before he left, Jesus said,",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "It is actually best for you that I go away, because if I don't, the Holy Spirit won't come.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 5
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "If I do go away, he will come, because I will send him to you.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 5
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "When Jesus had finished speaking with the disciples, they watched him rise into the sky and disappear into a cloud.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Two angels were there and said,",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "Jesus has been taken away from you into heaven. And someday, just as you saw him go, he will return.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "One day Jesus will come back for all God's children. That's everyone who believes Jesus died for them, and has been forgiven.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      },
+      {
+        "text": "We will be with him forever. Nothing will ever separate us from God's love again!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 0,
+          "y": 0,
+          "type": 0
+        }
+      }
+    ],
+    [
+      {
+        "text": "I want to be God's child, so I can be with him.",
+        "dots_coordinates": {
+          "x": 17,
+          "y": 65
+        },
+        "bubble_coordinates": {
+          "x": 35,
+          "y": 20,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "That's great, Matt! This is the most important decision you'll ever make! The Bible tells us our sin separates us from God.",
+        "dots_coordinates": {
+          "x": 68,
+          "y": 55
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 25,
+          "type": 3
+        }
+      },
+      {
+        "text": "And it says, \"If you confess with your mouth that Jesus is Lord.",
+        "dots_coordinates": {
+          "x": 68,
+          "y": 55
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 25,
+          "type": 3
+        }
+      },
+      {
+        "text": "and believe in your heart that God raised him from the dead, you will be saved.",
+        "dots_coordinates": {
+          "x": 68,
+          "y": 55
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 25,
+          "type": 3
+        }
+      },
+      {
+        "text": "For it is by believing in your heart that you are made right with God and it is by confessing with your mouth that you are saved.",
+        "dots_coordinates": {
+          "x": 68,
+          "y": 55
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 25,
+          "type": 3
+        }
+      },
+      {
+        "text": "That's in Romans, chapter 10, verses 9 and 10.",
+        "dots_coordinates": {
+          "x": 68,
+          "y": 55
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 25,
+          "type": 3
+        }
+      },
+      {
+        "text": "I can say that! I really do believe in Jesus!",
+        "dots_coordinates": {
+          "x": 48,
+          "y": 52
+        },
+        "bubble_coordinates": {
+          "x": 10,
+          "y": 25,
+          "type": 3
+        }
+      },
+      {
+        "text": "Then let's tell God. He’s always listening, Matt. He hears our prayers and answers us. Say this prayer with me. Dear God,",
+        "dots_coordinates": {
+          "x": 22,
+          "y": 52
+        },
+        "bubble_coordinates": {
+          "x": 40,
+          "y": 20,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "Dear God,",
+        "dots_coordinates": {
+          "x": 67,
+          "y": 40
+        },
+        "bubble_coordinates": {
+          "x": 20,
+          "y": 60,
+          "type": 4
+        }
+      },
+      {
+        "text": "I know I'm a sinner. I made wrong choices and did bad things. I'm sorry. Please forgive me.",
+        "dots_coordinates": {
+          "x": 67,
+          "y": 40
+        },
+        "bubble_coordinates": {
+          "x": 3,
+          "y": 60,
+          "type": 4
+        }
+      },
+      {
+        "text": "I know your Son, Jesus, died for my sins and I believe you raised him from the dead. I want Jesus to be my Lord.",
+        "dots_coordinates": {
+          "x": 67,
+          "y": 40
+        },
+        "bubble_coordinates": {
+          "x": 3,
+          "y": 60,
+          "type": 4
+        }
+      }
+    ],
+    [
+      {
+        "text": "Thank you for loving me and making me your child.",
+        "dots_coordinates": {
+          "x": 28,
+          "y": 63
+        },
+        "bubble_coordinates": {
+          "x": 43,
+          "y": 30,
+          "type": 1
+        }
+      },
+      {
+        "text": "Now, please fill me with your Holy Spirit, so I'll have all the strength I need to obey you. Amen.",
+        "dots_coordinates": {
+          "x": 28,
+          "y": 63
+        },
+        "bubble_coordinates": {
+          "x": 43,
+          "y": 30,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "Wow! I'm God's child now, aren’t I?",
+        "dots_coordinates": {
+          "x": 45,
+          "y": 72
+        },
+        "bubble_coordinates": {
+          "x": 1,
+          "y": 30,
+          "type": 3
+        }
+      },
+      {
+        "text": "Absolutely!",
+        "dots_coordinates": {
+          "x": 15,
+          "y": 84
+        },
+        "bubble_coordinates": {
+          "x": 27,
+          "y": 60,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "That’s right! Now, to get to know God better, be sure to talk to him in prayer and read about him in his book, the Bible.",
+        "dots_coordinates": {
+          "x": 20,
+          "y": 45
+        },
+        "bubble_coordinates": {
+          "x": 35,
+          "y": 10,
+          "type": 1
+        }
+      },
+      {
+        "text": "God speaks to you through the Bible and tells you about the important things he has for you to do.",
+        "dots_coordinates": {
+          "x": 20,
+          "y": 45
+        },
+        "bubble_coordinates": {
+          "x": 35,
+          "y": 10,
+          "type": 1
+        }
+      },
+      {
+        "text": "What are they, Dad?",
+        "dots_coordinates": {
+          "x": 54,
+          "y": 58
+        },
+        "bubble_coordinates": {
+          "x": 25,
+          "y": 40,
+          "type": 3
+        }
+      },
+      {
+        "text": "To love God, tell people about Jesus, and show them God's love and power.",
+        "dots_coordinates": {
+          "x": 20,
+          "y": 45
+        },
+        "bubble_coordinates": {
+          "x": 35,
+          "y": 10,
+          "type": 1
+        }
+      },
+      {
+        "text": "Jesus told his followers, go and make disciples. Teach them to obey all the commands I have given you.",
+        "dots_coordinates": {
+          "x": 80,
+          "y": 52
+        },
+        "bubble_coordinates": {
+          "x": 33,
+          "y": 26,
+          "type": 3
+        }
+      },
+      {
+        "text": "And be sure of this: I am with you always.",
+        "dots_coordinates": {
+          "x": 80,
+          "y": 52
+        },
+        "bubble_coordinates": {
+          "x": 33,
+          "y": 26,
+          "type": 3
+        }
+      }
+    ],
+    [
+      {
+        "text": "After Jesus went up to heaven, he sent us the Holy Spirit.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 1,
+          "y": 55,
+          "type": 3
+        }
+      },
+      {
+        "text": "He'll guide you and teach and give you God's special strength to tell others.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 1,
+          "y": 55,
+          "type": 3
+        }
+      }
+    ],
+    [
+      {
+        "text": "I want to tell my friends.",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 65,
+          "y": 40,
+          "type": 1
+        }
+      }
+    ],
+    [
+      {
+        "text": "Hey! The best thing just happened! It can happen to you, too! You can believe and make the same decision I did!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 13,
+          "y": 55,
+          "type": 3
+        }
+      },
+      {
+        "text": "Pray, and God will hear you. He loves you. He'll forgive you and make you his child!",
+        "dots_coordinates": {
+          "x": 50,
+          "y": 85
+        },
+        "bubble_coordinates": {
+          "x": 13,
+          "y": 55,
+          "type": 3
+        }
+      }
+    ]
+  ]
+}
